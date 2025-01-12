@@ -16,16 +16,17 @@ The goal of heuristic search methods is to efficiently explore the search space 
 2. Graph Search Algorithms
     * Blind search
     * Informed search algorithms
-3. Trajectory-based optimization techniques
+3. Trajectory-based Algorithms
     * Simulated annealing
     * Tabu search
-4. Population-based optimization techniques
+4. Evolutionary Computing Algorithms
     * Genetic algorithms
+5. Swarm Intelligence Algorithms
     * Particle swarm optimization
     * Ant colony optimization
-5. Machine Learning Methods
-    * Supervised learning
+6. Machine Learning Methods
     * Unsupervised learning
+    * Supervised learning
     * Reinforcement learning
 
 ## Textbook
