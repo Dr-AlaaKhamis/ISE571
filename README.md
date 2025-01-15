@@ -6,13 +6,9 @@ The goal of heuristic search methods is to efficiently explore the search space 
 
 ## Course Topics
 
-1. [Introduction to Search and Optimization](https://github.com/Dr-AlaaKhamis/ISE571/tree/main/Module_1)
-    * Python refresher
-    * Basic ingredients of optimization problems
-    * Classifying optimization problems
-    * Classifying search and optimization algorithms
-    * Heuristics and metaheuristics
-    * Search algorithms and the search dilemma
+1. Introduction
+    * [Python Refresher](https://github.com/Dr-AlaaKhamis/ISE571/tree/main/1_Introduction/Python_refresher)
+    * [Introduction to optimization](https://github.com/Dr-AlaaKhamis/ISE571/tree/main/1_Introduction/Intro_optimization)
 2. Graph Search Algorithms
     * Blind search
     * Informed search algorithms
