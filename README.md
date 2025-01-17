@@ -11,7 +11,7 @@ The goal of heuristic search methods is to efficiently explore the search space 
     * [Introduction to optimization](https://github.com/Dr-AlaaKhamis/ISE571/tree/main/1_Introduction/Intro_optimization)
 2. Graph Search Algorithms
     * [Blind search](https://github.com/Dr-AlaaKhamis/ISE571/tree/main/2_Graph_search/Blind_search)
-    * Informed search algorithms
+    * [Informed search algorithms](https://github.com/Dr-AlaaKhamis/ISE571/tree/main/2_Graph_search/Informed_search)
 3. Trajectory-based Algorithms
     * Simulated annealing
     * Tabu search
