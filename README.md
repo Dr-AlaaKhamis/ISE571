@@ -1,4 +1,4 @@
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://github.com/Dr-AlaaKhamis/ISE571/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Dr-AlaaKhamis/ISE571/blob/main/LICENSE)
 ![Last Commit](https://img.shields.io/github/last-commit/Dr-AlaaKhamis/ISE571)
 ![Repo Size](https://img.shields.io/github/repo-size/Dr-AlaaKhamis/ISE571)
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
