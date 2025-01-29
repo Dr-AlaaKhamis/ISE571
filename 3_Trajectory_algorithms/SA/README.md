@@ -1,5 +1,5 @@
 
-#  Informed search algorithms
+#  Simulated Annealing (SA)
 
 | Example  | Notebook  |
 |---|---|
