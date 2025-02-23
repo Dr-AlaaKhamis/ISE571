@@ -23,7 +23,7 @@ The goal of heuristic search methods is to efficiently explore the search space 
     * [Simulated annealing](https://github.com/Dr-AlaaKhamis/ISE571/tree/main/3_Trajectory_algorithms/SA)
     * [Tabu search](https://github.com/Dr-AlaaKhamis/ISE571/tree/main/3_Trajectory_algorithms/TS)
 4. Evolutionary Computing Algorithms
-    * Genetic algorithms
+    * [Genetic algorithms](https://github.com/Dr-AlaaKhamis/ISE571/tree/main/4_EC_algorithms)
 5. Swarm Intelligence Algorithms
     * Particle swarm optimization
     * Ant colony optimization
