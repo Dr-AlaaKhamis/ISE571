@@ -1,5 +1,5 @@
 
-#  Tabu Search (TS)
+#  Genetic Algorithm (GA)
 
 | Example  | Notebook  |
 |---|---|
