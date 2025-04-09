@@ -26,7 +26,7 @@ The goal of heuristic search methods is to efficiently explore the search space 
     * [Genetic algorithms](https://github.com/Dr-AlaaKhamis/ISE571/tree/main/4_EC_algorithms)
 5. Swarm Intelligence Algorithms
     * [Particle swarm optimization](https://github.com/Dr-AlaaKhamis/ISE571/tree/main/5_PSO)
-    * Ant colony optimization
+    * [Ant colony optimization](https://github.com/Dr-AlaaKhamis/ISE571/tree/main/6_ACO)
 6. Machine Learning Methods
     * Unsupervised learning
     * Supervised learning
