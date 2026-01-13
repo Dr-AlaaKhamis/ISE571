@@ -13,24 +13,36 @@ The goal of heuristic search methods is to efficiently explore the search space 
 
 ## 📚 Course Topics
 
-1. Introduction
-    * [Python Refresher](https://github.com/Dr-AlaaKhamis/ISE571/tree/main/1_Introduction/Python_refresher)
-    * [Introduction to optimization](https://github.com/Dr-AlaaKhamis/ISE571/tree/main/1_Introduction/Intro_optimization)
-2. Graph Search Algorithms
-    * [Blind search](https://github.com/Dr-AlaaKhamis/ISE571/tree/main/2_Graph_search/Blind_search)
-    * [Informed search algorithms](https://github.com/Dr-AlaaKhamis/ISE571/tree/main/2_Graph_search/Informed_search)
-3. Trajectory-based Algorithms
-    * [Simulated annealing](https://github.com/Dr-AlaaKhamis/ISE571/tree/main/3_Trajectory_algorithms/SA)
-    * [Tabu search](https://github.com/Dr-AlaaKhamis/ISE571/tree/main/3_Trajectory_algorithms/TS)
-4. Evolutionary Computing Algorithms
-    * [Genetic algorithms](https://github.com/Dr-AlaaKhamis/ISE571/tree/main/4_EC_algorithms)
-5. Swarm Intelligence Algorithms
-    * [Particle swarm optimization](https://github.com/Dr-AlaaKhamis/ISE571/tree/main/5_PSO)
-    * [Ant colony optimization](https://github.com/Dr-AlaaKhamis/ISE571/tree/main/6_ACO)
-6. Machine Learning Methods
-    * Unsupervised learning
-    * Supervised learning
-    * Reinforcement learning
+1. 🧑‍💻 **Introduction**
+    - 🐍 [Python Refresher](https://github.com/Dr-AlaaKhamis/ISE571/tree/main/1_Introduction/Python_refresher)
+    - 🗺️ [Geospatial Data](https://github.com/Dr-AlaaKhamis/ISE571/tree/main/1_Introduction/Geospatial_data)
+    - ⚙️ [Introduction to Optimization](https://github.com/Dr-AlaaKhamis/ISE571/tree/main/1_Introduction/Intro_optimization)
+
+2. 🗺️ **Graph Search Algorithms**
+    - 🕵️ [Blind Search](https://github.com/Dr-AlaaKhamis/ISE571/tree/main/2_Graph_search/Blind_search)
+    - 🔍 [Informed Search Algorithms](https://github.com/Dr-AlaaKhamis/ISE571/tree/main/2_Graph_search/Informed_search)
+
+3. 📉 **Trajectory-based Optimization Techniques**
+    - ❄️ [Simulated Annealing](https://github.com/Dr-AlaaKhamis/ISE571/tree/main/3_Trajectory_algorithms/SA)
+    - 🚫 [Tabu Search](https://github.com/Dr-AlaaKhamis/ISE571/tree/main/3_Trajectory_algorithms/TS)
+
+4. 🧬 **Population-based Optimization Techniques**
+    - 🧪 [Genetic Algorithms](https://github.com/Dr-AlaaKhamis/ISE571/tree/main/4_EC_algorithms)
+    - 🦟 [Particle Swarm Optimization](https://github.com/Dr-AlaaKhamis/ISE571/tree/main/5_PSO)
+    - 🐜 [Ant Colony Optimization](https://github.com/Dr-AlaaKhamis/ISE571/tree/main/6_ACO)
+
+5. 🤖 **Machine Learning Methods**
+    - 🧩 Unsupervised Learning  
+    - 🎯 Supervised Learning  
+    - 🕹️ Reinforcement Learning
+
+
+
+## 🚀 Getting Started
+
+```bash
+git clone https://github.com/Dr-AlaaKhamis/ISE571.git
+```
 
 ## 📖 Textbook
 
