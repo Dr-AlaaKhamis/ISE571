@@ -32,7 +32,7 @@ The goal of heuristic search methods is to efficiently explore the search space 
     - 🐜 [Ant Colony Optimization](https://github.com/Dr-AlaaKhamis/ISE571/tree/main/6_ACO)
 
 5. 🤖 **Machine Learning Methods**
-    - 🧩 Unsupervised Learning  
+    - 🧩 [Unsupervised Learning](https://github.com/Dr-AlaaKhamis/ISE571/tree/main/7_UL)
     - 🎯 Supervised Learning  
     - 🕹️ Reinforcement Learning
 
