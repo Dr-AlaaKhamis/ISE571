@@ -1,3 +1,4 @@
+[![Open in GitHub Codespaces](https://img.shields.io/badge/Run%20in-Codespaces-2ea44f?logo=github)](https://codespaces.new/Dr-AlaaKhamis/ISE571)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Dr-AlaaKhamis/ISE571/blob/main/LICENSE)
 ![Last Commit](https://img.shields.io/github/last-commit/Dr-AlaaKhamis/ISE571)
 ![Repo Size](https://img.shields.io/github/repo-size/Dr-AlaaKhamis/ISE571)
@@ -5,13 +6,13 @@
 ![GitHub Stars](https://img.shields.io/github/stars/Dr-AlaaKhamis/ISE571?style=social)
 
 
-# ISE 571 Heuristic Search Methods
+## ISE 571 Heuristic Search Methods
 
-## 📘 Course Description
+### 📘 Course Description
 
 The goal of heuristic search methods is to efficiently explore the search space to identify acceptable (optimal or near-optimal) solutions for complex problems within a reasonable timeframe. These methods incorporate mechanisms to balance exploration and exploitation of the search space, avoiding premature convergence while ensuring the discovery of high-quality solutions in a reasonable amount of time. This course focuses on how heuristic search algorithms tackle complex, ill-structured problems across various domains. Adaptive aspects of these algorithms will be discussed. Topics include blind and informed search algorithms, simulated annealing, tabu search, genetic algorithms, swarm intelligence algorithms, and machine learning-based approaches. The course features in-depth case studies, such as vehicle routing, assembly line balancing, supply-demand matching, resource allocation, product manufacturing, and scheduling. Students will use cutting-edge Python libraries for implementation, with projects integrated as a core component to apply the studied algorithms to solve real-world problems.
 
-## 📚 Course Topics
+### 📚 Course Topics
 
 1. 🧑‍💻 **Introduction**
     - 🐍 [Python Refresher](https://github.com/Dr-AlaaKhamis/ISE571/tree/main/1_Introduction/Python_refresher)
@@ -38,12 +39,12 @@ The goal of heuristic search methods is to efficiently explore the search space 
 
 
 
-## 🚀 Getting Started
+### 🚀 Getting Started
 
 ```bash
 git clone https://github.com/Dr-AlaaKhamis/ISE571.git
 ```
 
-## 📖 Textbook
+### 📖 Textbook
 
 Alaa Khamis. [Optimization Algorithms: AI Techniques for Design, Planning, and Control Problems](https://www.manning.com/books/optimization-algorithms). Manning Publication, ISBN 9781633438835, 2024.
