@@ -10,3 +10,6 @@
 | Solving delivery semi-truck routing problem | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dr-AlaaKhamis/ISE491/blob/main/3_Trajectory_algorithms/TS/Walmart.ipynb)  |
 | Solving assembly line balnacing problem | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dr-AlaaKhamis/ISE491/blob/main/3_Trajectory_algorithms/TS/SALBP_TS.ipynb)  |
 | Solving SALBP bechmark problems | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dr-AlaaKhamis/ISE491/blob/main/3_Trajectory_algorithms/TS/ALBP_Benchmarks.ipynb)  |
+
+> [!IMPORTANT]
+> Make sure to install the necessary libraries by uncommenting the `pip` command included at the beginning of each cell.

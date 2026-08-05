@@ -10,3 +10,6 @@
 | Solving Berlin52 TSP using SA | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dr-AlaaKhamis/ISE491/blob/main/3_Trajectory_algorithms/SA/Berlin52.ipynb)   |
 | Saudi Tour using SA | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dr-AlaaKhamis/ISE491/blob/main/3_Trajectory_algorithms/SA/SaudiTour.ipynb)   |
 | Job-shop scheduling using SA | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dr-AlaaKhamis/ISE491/blob/main/3_Trajectory_algorithms/SA/JSS_SA.ipynb)   |
+
+> [!IMPORTANT]
+> Make sure to install the necessary libraries by uncommenting the `pip` command included at the beginning of each cell.

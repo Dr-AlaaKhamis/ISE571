@@ -10,3 +10,7 @@
 |Solving NY routing problem using A* algorithm  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dr-AlaaKhamis/ISE491/blob/main/2_Graph_search/Informed_search/NY_Astar.ipynb)   |
 | Solving NY routing problem using beam search algorithm  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dr-AlaaKhamis/ISE491/blob/main/2_Graph_search/Informed_search/NY_Beam.ipynb)  |
 | Solving NY routing problem using hill climbing algorithm  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dr-AlaaKhamis/ISE491/blob/main/2_Graph_search/Informed_search/NY_HC.ipynb)  |
+
+
+> [!IMPORTANT]
+> Make sure to install the necessary libraries by uncommenting the `pip` command included at the beginning of each cell.

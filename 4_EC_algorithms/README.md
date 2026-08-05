@@ -9,3 +9,7 @@
 | Solving the Ackley function using GA in `pymoo`  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dr-AlaaKhamis/ISE491/blob/main/4_EC_algorithms/Ackley_Pymoo.ipynb)   |
 | Solving ticket pricing problem using GA | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dr-AlaaKhamis/ISE491/blob/main/4_EC_algorithms/Ticket_pricing_GA.ipynb)   |
 | Solving ticket pricing problem using GA in `pymoo` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dr-AlaaKhamis/ISE491/blob/main/4_EC_algorithms/Ticket_pricing_Pymoo.ipynb)   |
+
+
+> [!IMPORTANT]
+> Make sure to install the necessary libraries by uncommenting the `pip` command included at the beginning of each cell.

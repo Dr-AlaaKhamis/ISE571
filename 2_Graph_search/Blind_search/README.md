@@ -10,3 +10,6 @@
 
 > [!NOTE]
 > Feel free to change the places or origin and destination included in this example.
+
+> [!IMPORTANT]
+> Make sure to install the necessary libraries by uncommenting the `pip` command included at the beginning of each cell.
