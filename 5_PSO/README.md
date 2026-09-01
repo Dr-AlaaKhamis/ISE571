@@ -3,11 +3,11 @@
 
 | Example  | Notebook  |
 |---|---|
-| Solving Michalewicz function using PSO | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dr-AlaaKhamis/ISE491/blob/main/5_PSO/Michalewicz_function.ipynb)  |
-| Functin optimization: PSO versus GA | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dr-AlaaKhamis/ISE491/blob/main/5_PSO/FncOptimization.ipynb)  |
-| Solving TSP using binary PSO (BPSO) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dr-AlaaKhamis/ISE491/blob/main/5_PSO/TSP.ipynb)  |
-| Neural Network training PSO | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dr-AlaaKhamis/ISE491/blob/main/5_PSO/NN_Training.ipynb)  |
-| Operator Scheduling | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dr-AlaaKhamis/ISE491/blob/main/5_PSO/Operator_scheduling.ipynb)  |
+| Solving Michalewicz function using PSO | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dr-AlaaKhamis/ISE571/blob/main/5_PSO/Michalewicz_function.ipynb)  |
+| Functin optimization: PSO versus GA | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dr-AlaaKhamis/ISE571/blob/main/5_PSO/FncOptimization.ipynb)  |
+| Solving TSP using binary PSO (BPSO) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dr-AlaaKhamis/ISE571/blob/main/5_PSO/TSP.ipynb)  |
+| Neural Network training PSO | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dr-AlaaKhamis/ISE571/blob/main/5_PSO/NN_Training.ipynb)  |
+| Operator Scheduling | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dr-AlaaKhamis/ISE571/blob/main/5_PSO/Operator_scheduling.ipynb)  |
 
 > [!IMPORTANT]
 > Make sure to install the necessary libraries by uncommenting the `pip` command included at the beginning of each cell.
